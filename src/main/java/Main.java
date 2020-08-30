@@ -12,8 +12,6 @@ public class Main {
 
     System.out.println(passed);
 
-
-   long bonus = service.calculate(amount, registered);
   }
 }
 
